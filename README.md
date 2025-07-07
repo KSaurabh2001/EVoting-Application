@@ -66,3 +66,18 @@ evoting/
 ```bash
 git clone https://github.com/KSaurabh2001/E-Voting-System.git
 cd E-Voting-System
+## 🧪 How to Run Locally
+
+```
+## 🧪  Configure MySQL database
+
+```spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/evoting
+    username: yourUsername
+    password: yourPassword
+```
+
+## 📬 Contact
+📧 saurabh.kumar20010218@gmail.com
+🔗 GitHub: KSaurabh2001
